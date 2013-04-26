@@ -1,3 +1,3 @@
-<iframe src="map" width="90%" height="700", frameborder="0">
+<iframe src="map" width="90%" height="600px", frameborder="0">
  </iframe>
 

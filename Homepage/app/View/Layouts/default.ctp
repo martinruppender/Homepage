@@ -4,8 +4,8 @@
 	<?php
 		echo $this->Html->meta('icon');
 
- 		echo $this->Html->css('bootstrap-responsive');
- 		echo $this->Html->script('bootstrap');
+ 		echo $this->Html->css('bootstrap-responsive.min');
+ 		echo $this->Html->script('bootstrap.min');
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
